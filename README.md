@@ -3,4 +3,4 @@
 Python Django website with various tourist destinations in Kerala.
 
 # Demo
-This site will be available in this link http://tourismblog.pythonanywhere.com/
+Site will be available in this domain http://tourismblog.pythonanywhere.com/
